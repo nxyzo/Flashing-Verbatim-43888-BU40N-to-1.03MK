@@ -39,6 +39,7 @@ The procedure remains identical. Just select the appropriate firmware file for y
 - The drive will automatically reboot after successful flashing
 
 2. **Flash the Firmware**
+    - Close MakeMKV
     - Open Command Prompt as Administrator
     - Navigate to the MakeMKV installation directory:
       ```
