@@ -6,11 +6,11 @@ This guide explains how to flash an LG BU40N optical drive to firmware version 1
 ## Supported Drives
 This guide can also be used for the following drives. Simply use the corresponding firmware file named after your drive model and pay attention to the correct version:
 
-- WH16NS60 (Version 1.03)
-- WH16NS40 (Version 1.05)
-- WH14NS40 (Version 1.05)
-- BH16NS55 (Version 1.05)
-- BU40N (Version 1.04)
+- WH16NS60 (Version 1.03+)
+- WH16NS40 (Version 1.05+)
+- WH14NS40 (Version 1.05+)
+- BH16NS55 (Version 1.05+)
+- BU40N (Version 1.04+)
 
 The procedure remains identical. Just select the appropriate firmware file for your drive model from the "All you need firmware pack".
 
