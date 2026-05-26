@@ -1,5 +1,13 @@
 # Flashing LG BU40N Drive to Firmware 1.03 - User Guide
 
+## Credits
+
+This documentation is based on the amazing work of the MakeMKV community. Without their contributions, it would not have been possible.
+
+A special thanks goes to billycar11 for his excellent forum post. This step-by-step guide was built from his original guide:
+
+https://forum.makemkv.com/forum/viewtopic.php?f=16&t=19634
+
 ## Overview
 This guide explains how to flash an LG BU40N optical drive to firmware version 1.03 using MakeMKV software. This process allows you to update or modify your drive's firmware for compatibility or functionality improvements.
 
